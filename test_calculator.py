@@ -21,5 +21,4 @@ def test_calculator(a, b):
     print("---------------------")
 
 
-# Call the function with test inputs
 test_calculator(4, 5)
